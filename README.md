@@ -96,11 +96,6 @@ Contributions are welcome! If you'd like to improve this project, feel free to o
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## Screenshots *(Optional)*
-
-Add screenshots of your app here to give users a visual preview.
 
 ---
 
