@@ -2,7 +2,7 @@
 
 A modern and visually appealing To-Do application built using `customtkinter` and `tkcalendar`. This app allows users to manage tasks with due dates, priorities, and descriptions in a sleek, dark-themed interface.
 
-![App Screenshot](screenshot.png) *(Optional: Add a screenshot of your app here)*
+![App Screenshot](images/screenshot.png)
 
 ---
 
